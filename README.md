@@ -20,7 +20,7 @@ Lab 3v3
 
 Lab 4
 В Java программе удалить все комментарии из
-    /*
+   ``` /*
      * To change this template, choose Tools | Templates
      * and open the template in the editor.
      */
@@ -50,7 +50,7 @@ Lab 4
             "".getBytes();
             //  \u000d System.out.println("Bye!");
         }
-    }
+    }```
  
 Lab 5
 Входной файл input1.html содержит текст, написанный на языке HTML.
