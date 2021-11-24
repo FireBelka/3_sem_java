@@ -50,7 +50,8 @@ Lab 4
             "".getBytes();
             //  \u000d System.out.println("Bye!");
         }
-    }```
+    }
+```
  
 Lab 5
 Входной файл input1.html содержит текст, написанный на языке HTML.
